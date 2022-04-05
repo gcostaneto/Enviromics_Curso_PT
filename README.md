@@ -40,10 +40,10 @@ Para iniciar um pipeline de ambientação amigável, este pacote oferece:
 
 (3) identificação de similaridade ambiental que pode ser usada como um kernel baseado em ambiente (função env_typing) na seleção assistida por modelos preditivos baseados em genômica (ou simplesmente, predição genômica, GP), visando assim aumentar o conhecimento ecofisiológico nestes modelos, assim como emular efeitos de normas de reação (funções get_kernel e kernel_model). Neste curso, espero destacar a importância dos conceitos de mineração de literatura no ajuste fino dos parâmetros de ambiente para cada espécie de planta e ambientes de cultivo alvo. Em seguida, exemplificar seu uso para criar redes de envirotipagem em escala global e integrar a modelagem de normas de reação em GP também são descritos.
 
-![image](https://user-images.githubusercontent.com/25282742/161792800-5691da17-afef-4fbf-83a5-33173b870ed8.png)
 
+Esses tópicos sao ilustrados pelos seguintes módulos (Costa-Neto et al., 2021):
 
-
+<img align="center" src="/fig/envrtype.png" width="70%" height="70%">
 
 # Forum de Debate 
 
