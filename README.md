@@ -20,7 +20,7 @@ Portanto o número de ambientes não é tão relevante quanto a diversidade que 
 
 
 
-# Pipelines para Tipagem/Tificação de Ambientes e o pacote EnvRtype
+# Pipelines para tipificação/tipagem de ambientes e o pacote EnvRtype
 
 Antes de começar qualquer estudo envolvendo dados ambientais, precisamos aprender onde coletar, como processar e organizar tais dados. E principalmente: como extrair informações uteis desses dados. Existem muitos níveis nos quais podemos trabalhar, mas em geral, podemos classificar em: macro-ambiente e micro-ambiente. O macro-ambiente representa as condiçoes do meio em uma lavoura, floresta ou região, enquanto o micro-ambiente é o detalhamento das condiçoes do meio desde o nível de parcela, planta, órgão, tecido, celula etc. Enquanto o primeiro campo ainda está aprendendo a andar, o segundo está aprendendo a engatinhar.
 
